@@ -5,6 +5,11 @@
 ## Programming Languages
 <img src = 'https://github.com/DanielMichel305/DanielMichel305/blob/main/Images/c_original_logo.png' width = '30'/><img src = 'https://github.com/DanielMichel305/DanielMichel305/blob/main/Images/C%2B%2BLogonobg.png' width = '30'/>  <img src = 'https://github.com/DanielMichel305/DanielMichel305/blob/main/Images/java.svg' width = '30'/><img src = 'https://github.com/DanielMichel305/DanielMichel305/blob/main/Images/HTML5_Badge.png' width = '30'/><img src = 'https://github.com/DanielMichel305/DanielMichel305/blob/main/Images/CSS3_logo.png' width = '30'/><img src = 'https://github.com/DanielMichel305/DanielMichel305/blob/main/Images/JavaScript-logo.png' width = '30'/><img src = 'https://github.com/DanielMichel305/DanielMichel305/blob/main/Images/SQL.png' width = '30'/>
 
+## Technologies used
+
+<img src = 'https://github.com/DanielMichel305/DanielMichel305/blob/main/Images/github.png' width = '30'/>
+
+
 ## Who Am I?
 
 ``` C++
