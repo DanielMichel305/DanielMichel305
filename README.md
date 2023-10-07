@@ -8,6 +8,8 @@
 ## Technologies used
 
 <img src = 'https://github.com/DanielMichel305/DanielMichel305/blob/main/Images/github.png' width = '30'/>
+<img src = 'https://github.com/DanielMichel305/DanielMichel305/blob/main/Images/SFML.png' width = '30'/>
+<img src = 'https://github.com/DanielMichel305/DanielMichel305/blob/main/Images/TGUI.png' width = '30'/>
 
 
 ## Who Am I?
