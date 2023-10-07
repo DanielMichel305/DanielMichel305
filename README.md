@@ -35,7 +35,7 @@ class whoAmI
           Ambitions getAmbitions(){
                         CompetiveProgramming();
                         lowLevelProgramming();
-                        
+                       //Many more Ambitions 
 
 };
 
