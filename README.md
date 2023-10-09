@@ -1,5 +1,5 @@
 ## Hey there! Daniel here, 
-I'm a sophomore studying Computer science with a passion for anything digital
+I'm a sophomore studying Computer science with a passion for anything digital<br>
 [![LinkedIn badge](https://img.shields.io/badge/-DanielMichel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Daniel-Michel04)](https://www.linkedin.com/in/daniel-michel04/)  [![Gmail Badge](https://img.shields.io/badge/-danielmichel.30504@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielmichel.30504@gmail.com)](mailto:asterp04@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DanielMichel305" alt="DanielMichel305" /> </p>
 
