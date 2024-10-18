@@ -16,6 +16,7 @@ I'm a sophomore studying Computer science with a passion for anything digital<br
 
 <img src = 'https://github.com/DanielMichel305/DanielMichel305/blob/main/Images/github.png' title='Github' width = '30'/><img src = 'https://github.com/DanielMichel305/DanielMichel305/blob/main/Images/SFML.png' title='SFML' width = '30'/><img src = 
 'https://github.com/DanielMichel305/DanielMichel305/blob/main/Images/TGUI.png' title='TGUI' width = '30'/> <img src = 
+'https://github.com/DanielMichel305/DanielMichel305/blob/main/Images/TGUI.png' title='TGUI' width = '30'/> <img src = 
 'https://github.com/DanielMichel305/DanielMichel305/blob/main/Images/mongodb-icon-2.svg' title='MongoDB' width = '30'/>
 
 
