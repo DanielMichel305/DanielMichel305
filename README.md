@@ -10,15 +10,17 @@ I'm a sophomore studying Computer science with a passion for anything digital<br
 
 
 ## Programming Languages
-<img src = 'https://github.com/DanielMichel305/DanielMichel305/blob/main/Images/c_original_logo.png' width = '30'/><img src = 'https://github.com/DanielMichel305/DanielMichel305/blob/main/Images/C%2B%2BLogonobg.png' width = '30'/>  <img src = 'https://github.com/DanielMichel305/DanielMichel305/blob/main/Images/java.svg' width = '30'/><img src = 'https://github.com/DanielMichel305/DanielMichel305/blob/main/Images/HTML5_Badge.png' width = '30'/><img src = 'https://github.com/DanielMichel305/DanielMichel305/blob/main/Images/CSS3_logo.png' width = '30'/><img src = 'https://github.com/DanielMichel305/DanielMichel305/blob/main/Images/JavaScript-logo.png' width = '30'/><img src = 'https://github.com/DanielMichel305/DanielMichel305/blob/main/Images/SQL.png' width = '30'/>
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ## Technologies used
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-<img src = 'https://github.com/DanielMichel305/DanielMichel305/blob/main/Images/github.png' title='Github' width = '30'/><img src = 'https://github.com/DanielMichel305/DanielMichel305/blob/main/Images/SFML.png' title='SFML' width = '30'/><img src = 
-'https://github.com/DanielMichel305/DanielMichel305/blob/main/Images/TGUI.png' title='TGUI' width = '30'/> <img src = 
-'https://github.com/DanielMichel305/DanielMichel305/blob/main/Images/TGUI.png' title='TGUI' width = '30'/> <img src = 
-'https://github.com/DanielMichel305/DanielMichel305/blob/main/Images/mongodb-icon-2.svg' title='MongoDB' width = '30'/>
 
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+
+
+
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMichel305&theme=synthwave)
 
 ## Who Am I?
 
