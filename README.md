@@ -20,7 +20,7 @@ I'm a sophomore studying Computer science with a passion for anything digital<br
 
 
 
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMichel305&theme=synthwave)
+
 
 ## Who Am I?
 
