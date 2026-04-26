@@ -30,12 +30,15 @@ class whoAmI
     public:
           string User = "Daniel Michel";
           string currentWork = "Coding stuff";
-          string hobbies[5] = {
+          string hobbies[8] = {
                               "Coding",
                               "Gaming",
-                              "Playing the Drums",
+                              "Playing Drums",
+                              "Playing Guitar",
+                              "Live Music production",
                               "skating",
-                              "Playing squash"
+                              "Playing squash",
+                              "Aviation"
                               }
 
           City getCity(){
@@ -45,6 +48,8 @@ class whoAmI
           Ambitions getAmbitions(){
                         CompetiveProgramming();
                         lowLevelProgramming();
+                        EmbeddedDevelopment();
+                        
                        //Many more Ambitions 
 
 };
