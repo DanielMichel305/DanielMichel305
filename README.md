@@ -1,5 +1,5 @@
 ## Hey there! Daniel here
-I'm a sophomore studying Computer science with a passion for anything digital<br/></br>
+I'm a Senior studying Computer science with a passion for anything digital<br/></br>
  <div style = "text-align:center"><img src="https://readme-typing-svg.herokuapp.com?font=&color=1E90FF&size=25&center=true&vCenter=true&width=600&height=60&lines=Software+Engineer;Web+Developer;Tech+Enthusiast" /></div> 
 
 <br/><br/>
