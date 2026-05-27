@@ -46,9 +46,9 @@ class whoAmI
           }
 
           Ambitions getAmbitions(){
-                        CompetiveProgramming();
-                        lowLevelProgramming();
-                        EmbeddedDevelopment();
+                        CompetiveProgramming(); // Did that! ECPC2025 competitor
+                        lowLevelProgramming();  // Maybe soon...
+                        EmbeddedDevelopment();  //Already back doing many embedded projects
                         
                        //Many more Ambitions 
 
